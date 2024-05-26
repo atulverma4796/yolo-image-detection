@@ -1,0 +1,18 @@
+# train: C:/Projects/YOLO_Work/data/images/train
+# val: C:/Projects/YOLO_Work/data/images/val
+
+# nc: 2
+# names: ["player", "football"]
+
+# train: C:/Projects/YOLO_Work/train/images
+# val: C:/Projects/YOLO_Work/val/images
+
+# nc: 2
+# names: ["football", "player"]
+
+train: /content/gdrive/My Drive/ComputerVisionEngineering/Yolo_segmentation_work/train/images
+val: /content/gdrive/My Drive/ComputerVisionEngineering/Yolo_segmentation_work/val/images
+
+nc: 1
+# names: ["football", "goal_post", "team_dark", "team_light"]
+names: ["goal_scored"]

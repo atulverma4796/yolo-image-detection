@@ -1,0 +1,9 @@
+path: C:/Projects/YOLO_Work/datasets
+train: ./images
+val: ./images
+nc: 4
+names:
+  0: hat
+  1: jacket
+  2: player
+  3: football
